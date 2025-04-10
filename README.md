@@ -35,7 +35,9 @@ The following graph theory algorithms are implemented in this repository:
 9. **[Longest Path on DAG](https://github.com/RuzGhandilian/Graph-Theory-Algorithms/tree/main/src/longest_path_dag)**  
    Solves the longest path problem in a directed acyclic graph (DAG) using dynamic programming and topological sorting.
 
-9. **[Kahn’s Algorithm](https://github.com/RuzGhandilian/Graph-Theory-Algorithms/tree/main/src/kahns_algorithm)**  
+9. **[Kahn’s Algorithm](https://github.com/RuzGhandilian/Graph-Theory-Algorithms/tree/main/src/kahns_algorithm)**
+   Implements Kahn's algorithm for topological sorting of DAGs using in-degree tracking and a queue. Detects cycles by checking if all nodes are processed.
+
    
 ---
 
