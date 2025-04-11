@@ -22,7 +22,6 @@ def topological_sort(graph):
             for n in component_nodes:
                 process_node(n)
 
-    # Reverse postorder gives topological order
     return stack[::-1]
 
 G = nx.DiGraph()
