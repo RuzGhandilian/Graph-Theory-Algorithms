@@ -1,9 +1,3 @@
-# Graph Theory Algorithms
-
-This repository contains the implementation of various graph theory algorithms as part of my **Graph Theory** class at **NPUA**. The goal of this project is to implement and demonstrate important algorithms such as **DFS**, **BFS**, **Topological Sorting**, **Dijkstra's**, **Bellman-Ford**, and others, using **NetworkX** for graph handling and **Matplotlib** for visualization where applicable.
-
----
-
 ## Implemented Algorithms
 
 1. **[DFS (Depth-First Search)](https://github.com/RuzGhandilian/Graph-Theory-Algorithms/tree/main/src/dfs)**  
