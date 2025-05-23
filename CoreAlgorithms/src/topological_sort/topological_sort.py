@@ -1,5 +1,5 @@
 import networkx as nx
-from src.dfs.dfs import DFS
+from CoreAlgorithms.src.dfs.dfs import DFS
 
 def topological_sort(graph):
     # Check if the graph is a DAG

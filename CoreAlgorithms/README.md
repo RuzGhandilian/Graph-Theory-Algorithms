@@ -6,8 +6,6 @@ This repository contains the implementation of various graph theory algorithms a
 
 ## Implemented Algorithms
 
-The following graph theory algorithms are implemented in this repository:
-
 1. **[DFS (Depth-First Search)](https://github.com/RuzGhandilian/Graph-Theory-Algorithms/tree/main/src/dfs)**  
    Implements DFS with optional visualization for graph traversal.
 ---

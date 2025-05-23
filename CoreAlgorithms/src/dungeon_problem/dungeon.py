@@ -1,7 +1,5 @@
 import networkx as nx
-import matplotlib.pyplot as plt
-from collections import deque
-from src.bfs.bfs import BFS
+from CoreAlgorithms.src.bfs.bfs import BFS
 
 
 def bfs_shortest_path(dungeon):
