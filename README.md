@@ -18,7 +18,8 @@ Graph-Theory-Algorithms/
 └── README.md                # Repository-level overview (this file)
 ```
 
-## Fundamental Algorithms
+## **[Fundamental Algorithms](https://github.com/RuzGhandilian/Graph-Theory-Algorithms/tree/main/FundamentalAlgorithms)**  
+
 
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
@@ -30,7 +31,8 @@ Graph-Theory-Algorithms/
 - Longest Path in Directed Acyclic Graphs (DAGs)
 - Grid-Based Pathfinding (Dungeon Problem)
 
-## Leetcode Problem Solutions
+## **[Leetcode Problem Solutions](https://github.com/RuzGhandilian/Graph-Theory-Algorithms/tree/main/LeetcodeProblems)**  
+
 
 - Redundant Connection
 - Target Sum
@@ -39,6 +41,7 @@ Graph-Theory-Algorithms/
 - Jump Game II
 - Best Time to Buy and Sell Stock II
 
-
 ---
 Detailed information and usage instructions are available in ```FundamentalAlgorithms/README.md``` and  ```LeetcodeProblems/README.md``` files.
+
+
