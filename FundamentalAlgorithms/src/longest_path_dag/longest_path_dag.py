@@ -1,5 +1,5 @@
 import networkx as nx
-from CoreAlgorithms.src.topological_sort.topological_sort import topological_sort
+from FundamentalAlgorithms.src.topological_sort.topological_sort import topological_sort
 
 def single_source_longest_path_by_negating(G, start):
     # Create a new graph with negated weights

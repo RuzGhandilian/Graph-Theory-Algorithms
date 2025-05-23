@@ -1,5 +1,5 @@
 import networkx as nx
-from CoreAlgorithms.src.dfs.dfs import DFS
+from FundamentalAlgorithms.src.dfs.dfs import DFS
 
 
 def find_connected_components(graph):

@@ -1,5 +1,5 @@
 import networkx as nx
-from CoreAlgorithms.src.bfs.bfs import BFS
+from FundamentalAlgorithms.src.bfs.bfs import BFS
 
 
 def bfs_shortest_path(dungeon):
